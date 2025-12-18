@@ -1,6 +1,4 @@
 @startuml
-skinparam usecaseDiagramDrawUsingTwoColumns false
-
 actor Student
 
 rectangle "el-Campus"{
